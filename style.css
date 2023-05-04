@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    /* flex-direction: column; */
+    /* align-items: center; */
+}
+
+.field{
+    width: 0px;
+}
